@@ -1,0 +1,8 @@
+diffusers 
+torch 
+torchvision 
+torchaudio 
+--extra-index-url https://download.pytorch.org/whl/cu113
+
+# For furthur assistance you can clone (not necessary)
+https://github.com/ChenyangSi/FreeU.git
